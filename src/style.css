@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Whitney";
+    src: url("/whitney/whitneylight.otf") format("otf");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Whitney";
+    src: url("/whitney/whitneybook.otf") format("otf");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Whitney";
+    src: url("/whitney/whitneymedium.otf") format("otf");
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Whitney";
+    src: url("/whitney/whitneysemibold.otf") format("otf");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Ginto";
+    src: url("/ginto/gintoSemibold.woff") format("woff");
+    font-weight: 600;
+    font-style: normal;
+}
